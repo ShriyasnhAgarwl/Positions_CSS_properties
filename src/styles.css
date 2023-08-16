@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-family: barlow;
+  text-align: center;
+}
+div {
+  font-family: barlow;
+  font-size: 32px;
+}
+div.static {
+  background-color: blue;
+  position: static;
+}
+div.relative {
+  background-color: blueviolet;
+  position: relative;
+}
+div.fixed {
+  background-color: burlywood;
+  position: fixed;
+}
+div.absolute {
+  background-color: chartreuse;
+  position: absolute;
+}
